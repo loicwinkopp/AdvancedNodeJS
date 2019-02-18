@@ -2,7 +2,7 @@
 
 Web App to manage blog posts. Created with React, Redux, Node.js, Redis.
 
-Please have a look at the most interesting files I've been working on:
+Please take a look at the most interesting files I've been working on:
 
 * ``` /services/cache.js ``` in which I use data cahing with Redis
 * ``` /.travis.yml ``` which is the configuration for the continuous integration provider Travis CI
